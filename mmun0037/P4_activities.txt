@@ -1,0 +1,7 @@
+ItemType: Book, GardeningTool, CarpentryTool
+AgeGroup: Underage, Adult, Senior
+LoanLength: Short, Medium, Long
+OutstandingFees: Yes, No
+GardeningToolTraining: Completed, NotCompleted
+CarpentryToolTraining: Completed, NotCompleted
+
